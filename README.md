@@ -1,4 +1,4 @@
-👋 Hi, I'm Aniruth
+👋 Hi, I'm Aditya
 
 🚀 Full Stack Developer in Progress
 
