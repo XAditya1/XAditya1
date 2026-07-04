@@ -1,16 +1,37 @@
-## Hi there 👋
+👋 Hi, I'm Aniruth
 
-<!--
-**XAditya1/XAditya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full Stack Developer in Progress
 
-Here are some ideas to get you started:
+━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Currently Learning
+HTML ██████████ 100%
+CSS  ██████████ 100%
+JavaScript ███████░░ 70%
+Python ████░░░░░░ 40%
+React ░░░░░░░░░░ 0%
+SQL ░░░░░░░░░░ 0%
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💻 Tech Stack
+
+HTML • CSS • JavaScript • React • Python • MySQL • Git • GitHub • VS Code
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📈 GitHub Stats
+(Stats Cards)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 2026 Goals
+✓ Full Stack Development
+✓ React
+✓ Python
+✓ Databases
+✓ Open Source
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ "Consistency beats intensity."
